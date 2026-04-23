@@ -1,0 +1,1 @@
+var git = document.querySelector(".text");
